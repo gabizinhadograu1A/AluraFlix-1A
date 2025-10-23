@@ -35,3 +35,18 @@ p {
 img {
     height: 200;
 }
+
+.categoria-vídeos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.categori{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.categoria-vídeos img {
+    opacity: 0,5;
+}
